@@ -32,4 +32,4 @@
 <br>
 
 <hr>
-<p>Made with ❤ By SpeedDigit Team</p>
+<p>Made with ❤ By <code>SpeedDigit Team</code></p>
