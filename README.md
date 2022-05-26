@@ -1,4 +1,6 @@
-# CRM (ASP.NET Core MVC) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+# CRM (.NET Core MVC)
+
+## This project is under development
 
 ## Installed packages
 
@@ -30,4 +32,4 @@
 <br>
 
 <hr>
-<p>Made with ❤ By SpeedDigit</p>
+<p>Made with ❤ By SpeedDigit Team</p>
