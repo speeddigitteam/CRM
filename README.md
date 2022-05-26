@@ -2,16 +2,16 @@
 
 ## Installed packages
 
-- Install `dotnet add package Microsoft.AspNetCore.Identity`
-- Install `dotnet add package Microsoft.AspNetCore.Identity.EntityFrameworkCore`
-- Install `Microsoft.AspNetCore.Identity.UI`
-- Install `dotnet add package Microsoft.EntityFrameworkCore`
-- Install `dotnet add package Microsoft.EntityFrameworkCore.Design`
-- Install `dotnet add package Microsoft.EntityFrameworkCore.Tools`
-- Install `dotnet add package Microsoft.EntityFrameworkCore.SqlServer`
-- Install `dotnet add package Pomelo.EntityFrameworkCore.MySql`
-- Install `dotnet add package Microsoft.VisualStudio.Web.CodeGeneration.Design`
-- Install `dotnet tool install -g dotnet-aspnet-codegenerator`
+- `dotnet add package Microsoft.AspNetCore.Identity`
+- `dotnet add package Microsoft.AspNetCore.Identity.EntityFrameworkCore`
+- `Microsoft.AspNetCore.Identity.UI`
+- `dotnet add package Microsoft.EntityFrameworkCore`
+- `dotnet add package Microsoft.EntityFrameworkCore.Design`
+- `dotnet add package Microsoft.EntityFrameworkCore.Tools`
+- `dotnet add package Microsoft.EntityFrameworkCore.SqlServer`
+- `dotnet add package Pomelo.EntityFrameworkCore.MySql`
+- `dotnet add package Microsoft.VisualStudio.Web.CodeGeneration.Design`
+- `dotnet tool install -g dotnet-aspnet-codegenerator`
 
 ## Environment Setup
 
