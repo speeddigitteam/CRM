@@ -1,0 +1,12 @@
+﻿@{
+    ViewData["Title"] = "Customers Page";
+    var myList = ViewData["Customers"] as IList<string>;
+}
+
+<div class="">
+    <h1 class="display-4">Customers</h1>
+    @foreach (var item in myList)
+    {
+        <p>@item</p>
+    }
+</div>
